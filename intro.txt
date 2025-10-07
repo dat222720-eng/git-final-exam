@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+- Tôi là <Lê Quốc Đạt>, sinh viên <CNTT>.
+- Hiện quan tâm đến Git, GitHub
+- Mục tiêu nghề nghiệp: <Có việc làm ổn định>
+- Sở trường: <...>
+- Cam kết học tập: <...>
+Sở thích:
+
+1) <Sở thích 1>
+2) <Sở thích 2>
+
+3) <Sở thích 3>
+Kỹ năng:
+1) <Kỹ năng 1>
+2) <Kỹ năng 2>
+3) <Kỹ năng 3>
