@@ -1,0 +1,3 @@
+- Git giúp theo dõi lịch sử thay đổi.
+- Commit nhỏ, có ý nghĩa giúp review dễ hơn.
+- Branch/merge giúp làm việc nhóm hiệu quả.
