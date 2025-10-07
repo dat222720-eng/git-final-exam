@@ -14,3 +14,9 @@ Kỹ năng:
 1) <Kỹ năng 1>
 2) <Kỹ năng 2>
 3) <Kỹ năng 3>
+Kế hoạch học tập:
+- Ngày 1: Ôn lệnh cơ bản Git (status/add/commit/log)
+- Ngày 2: Branch/merge và xử lý conflict
+- Ngày 3: reset/revert, hiểu lưu đồ lịch sử
+- Ngày 4: diff/stash cho thay đổi tạm
+- Ngày 5: Thực hành GitHub (pull request/tag)
