@@ -1,3 +1,5 @@
 - Git giúp theo dõi lịch sử thay đổi.
 - Commit nhỏ, có ý nghĩa giúp review dễ hơn.
 - Branch/merge giúp làm việc nhóm hiệu quả.
+- Reset/Revert phục hồi trạng thái an toàn.
+- Stash lưu tạm thay đổi chưa sẵn sàng commit.
